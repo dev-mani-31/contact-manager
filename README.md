@@ -6,6 +6,7 @@
 4. Then remove public and src folder from your application and copy it from my application
 5. After copying successfully, run the command "npm start" in your application
 6. Make sure your application must have following modules and folders:- node modules, public and src folder(which you will copy from my application), .gitignore file, package.json file, package-lock.json file.
+7. You have to install some modules like bootstrap so for that look at the modules which are missing and install it.
 
 ####--About This Application--###
 
